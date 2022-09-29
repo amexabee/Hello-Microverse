@@ -1,7 +1,12 @@
-button {
-  color: orange;
+h1 {
+  color: red;
+  text-align: center;
 }
 
-p {
-  color: red;
+.btn {
+  text-align: center;
+}
+
+button {
+  color: blue;
 }
