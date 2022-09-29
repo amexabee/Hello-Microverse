@@ -36,4 +36,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- My team mates esp. @Arkankovanabdullah have helped me a lot.
+- My morning session team mates have worked with them.
